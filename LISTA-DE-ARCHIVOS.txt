@@ -1,0 +1,15 @@
+app.js
+bootstrap.js
+config.js
+consensus.js
+deriv-api.js
+engine1.js
+engine2.js
+index.html
+indicators.js
+manifest.webmanifest
+prediction.js
+service-worker.js
+style.css
+voice.js
+README.txt
